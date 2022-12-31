@@ -1,8 +1,6 @@
 
-Flutter PAB Data nilai
 
-## Getting Started
 
--Firebase
--FiresebaseFirestore
--FirebaseAuth
+## Data Nilai / UAS PAB
+
+Firebase, FirebaseFirestore, FirebaseAuth
